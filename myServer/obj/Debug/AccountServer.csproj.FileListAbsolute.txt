@@ -1,0 +1,55 @@
+C:\Users\19126924\Downloads\myLib\myLib\myServer\bin\Debug\myServer.exe.config
+C:\Users\19126924\Downloads\myLib\myLib\myServer\bin\Debug\myServer.exe
+C:\Users\19126924\Downloads\myLib\myLib\myServer\bin\Debug\myServer.pdb
+C:\Users\19126924\Downloads\myLib\myLib\myServer\bin\Debug\myLib.dll
+C:\Users\19126924\Downloads\myLib\myLib\myServer\bin\Debug\myLib.pdb
+C:\Users\19126924\Downloads\myLib\myLib\myServer\obj\Debug\AccountServer.csproj.AssemblyReference.cache
+C:\Users\19126924\Downloads\myLib\myLib\myServer\obj\Debug\AccountServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\19126924\Downloads\myLib\myLib\myServer\obj\Debug\AccountServer.csproj.CoreCompileInputs.cache
+C:\Users\19126924\Downloads\myLib\myLib\myServer\obj\Debug\AccountServer.csproj.CopyComplete
+C:\Users\19126924\Downloads\myLib\myLib\myServer\obj\Debug\myServer.exe
+C:\Users\19126924\Downloads\myLib\myLib\myServer\obj\Debug\myServer.pdb
+C:\Users\19126924\Downloads\AccountApp\myLib\myServer\bin\Debug\myServer.exe.config
+C:\Users\19126924\Downloads\AccountApp\myLib\myServer\bin\Debug\myServer.exe
+C:\Users\19126924\Downloads\AccountApp\myLib\myServer\bin\Debug\myServer.pdb
+C:\Users\19126924\Downloads\AccountApp\myLib\myServer\bin\Debug\myLib.dll
+C:\Users\19126924\Downloads\AccountApp\myLib\myServer\bin\Debug\myLib.pdb
+C:\Users\19126924\Downloads\AccountApp\myLib\myServer\obj\Debug\AccountServer.csproj.AssemblyReference.cache
+C:\Users\19126924\Downloads\AccountApp\myLib\myServer\obj\Debug\AccountServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\19126924\Downloads\AccountApp\myLib\myServer\obj\Debug\AccountServer.csproj.CoreCompileInputs.cache
+C:\Users\19126924\Downloads\AccountApp\myLib\myServer\obj\Debug\AccountServer.csproj.CopyComplete
+C:\Users\19126924\Downloads\AccountApp\myLib\myServer\obj\Debug\myServer.exe
+C:\Users\19126924\Downloads\AccountApp\myLib\myServer\obj\Debug\myServer.pdb
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myServer\bin\Debug\myServer.exe.config
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myServer\bin\Debug\myServer.exe
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myServer\bin\Debug\myServer.pdb
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myServer\bin\Debug\myLib.dll
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myServer\bin\Debug\myLib.pdb
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myServer\obj\Debug\AccountServer.csproj.AssemblyReference.cache
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myServer\obj\Debug\AccountServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myServer\obj\Debug\AccountServer.csproj.CoreCompileInputs.cache
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myServer\obj\Debug\AccountServer.csproj.CopyComplete
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myServer\obj\Debug\myServer.exe
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myServer\obj\Debug\myServer.pdb
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myServer\bin\Debug\myServer.exe.config
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myServer\bin\Debug\myServer.exe
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myServer\bin\Debug\myServer.pdb
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myServer\bin\Debug\myLib.dll
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myServer\bin\Debug\myLib.pdb
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myServer\obj\Debug\AccountServer.csproj.AssemblyReference.cache
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myServer\obj\Debug\AccountServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myServer\obj\Debug\AccountServer.csproj.CoreCompileInputs.cache
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myServer\obj\Debug\AccountServer.csproj.CopyComplete
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myServer\obj\Debug\myServer.exe
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myServer\obj\Debug\myServer.pdb
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myServer\bin\Debug\myServer.exe.config
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myServer\bin\Debug\myServer.exe
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myServer\bin\Debug\myServer.pdb
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myServer\bin\Debug\myLib.dll
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myServer\bin\Debug\myLib.pdb
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myServer\obj\Debug\AccountServer.csproj.AssemblyReference.cache
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myServer\obj\Debug\AccountServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myServer\obj\Debug\AccountServer.csproj.CoreCompileInputs.cache
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myServer\obj\Debug\AccountServer.csproj.CopyComplete
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myServer\obj\Debug\myServer.exe
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myServer\obj\Debug\myServer.pdb

@@ -1,0 +1,36 @@
+C:\Users\19126924\source\repos\myLib\myLib\bin\Debug\myLib.dll
+C:\Users\19126924\source\repos\myLib\myLib\bin\Debug\myLib.pdb
+C:\Users\19126924\source\repos\myLib\myLib\obj\Debug\myLib.csproj.CoreCompileInputs.cache
+C:\Users\19126924\source\repos\myLib\myLib\obj\Debug\myLib.dll
+C:\Users\19126924\source\repos\myLib\myLib\obj\Debug\myLib.pdb
+C:\Users\19126924\source\repos\myLib\myLib\obj\Debug\myLib.csproj.AssemblyReference.cache
+C:\Users\19126924\Downloads\myLib\myLib\myLib\bin\Debug\myLib.dll
+C:\Users\19126924\Downloads\myLib\myLib\myLib\bin\Debug\myLib.pdb
+C:\Users\19126924\Downloads\myLib\myLib\myLib\obj\Debug\myLib.csproj.AssemblyReference.cache
+C:\Users\19126924\Downloads\myLib\myLib\myLib\obj\Debug\myLib.csproj.CoreCompileInputs.cache
+C:\Users\19126924\Downloads\myLib\myLib\myLib\obj\Debug\myLib.dll
+C:\Users\19126924\Downloads\myLib\myLib\myLib\obj\Debug\myLib.pdb
+C:\Users\19126924\Downloads\AccountApp\myLib\myLib\bin\Debug\myLib.dll
+C:\Users\19126924\Downloads\AccountApp\myLib\myLib\bin\Debug\myLib.pdb
+C:\Users\19126924\Downloads\AccountApp\myLib\myLib\obj\Debug\myLib.csproj.AssemblyReference.cache
+C:\Users\19126924\Downloads\AccountApp\myLib\myLib\obj\Debug\myLib.csproj.CoreCompileInputs.cache
+C:\Users\19126924\Downloads\AccountApp\myLib\myLib\obj\Debug\myLib.dll
+C:\Users\19126924\Downloads\AccountApp\myLib\myLib\obj\Debug\myLib.pdb
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myLib\bin\Debug\myLib.dll
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myLib\bin\Debug\myLib.pdb
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myLib\obj\Debug\myLib.csproj.CoreCompileInputs.cache
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myLib\obj\Debug\myLib.dll
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myLib\obj\Debug\myLib.pdb
+C:\Users\19126924\Downloads\AccountApp2\AccountApp2\myLib\myLib\obj\Debug\myLib.csproj.AssemblyReference.cache
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myLib\bin\Debug\myLib.dll
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myLib\bin\Debug\myLib.pdb
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myLib\obj\Debug\myLib.csproj.AssemblyReference.cache
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myLib\obj\Debug\myLib.csproj.CoreCompileInputs.cache
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myLib\obj\Debug\myLib.dll
+C:\Users\19126924\Downloads\AccountAppWithPic\AccountApp2\myLib\myLib\obj\Debug\myLib.pdb
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myLib\bin\Debug\myLib.dll
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myLib\bin\Debug\myLib.pdb
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myLib\obj\Debug\myLib.csproj.AssemblyReference.cache
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myLib\obj\Debug\myLib.csproj.CoreCompileInputs.cache
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myLib\obj\Debug\myLib.dll
+C:\Users\19126924\Downloads\AccountAppWithPic (1)\AccountApp2\myLib\myLib\obj\Debug\myLib.pdb
